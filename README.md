@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Corporate Ipsum
 
 today was all about learning bootstrap! i did a tutorial with treehouse
@@ -7,7 +7,3 @@ impermeable as i had anticipated.
 
 plus, found the most hilarious text generator i’ve ever seen.
 CORPORATE IPSUM IS TOO REAL
-=======
-# corporate-ipsum
-5/50
->>>>>>> origin/master
